@@ -1,24 +1,7 @@
-# task-manager
+# Task-manager
 
-## Project setup
-```
-npm install
-```
+Простенький менеджер задач на VUE. Реализовано создание, 
+редактирование и удаление задачи. Использован router и Vuex. 
+Задачи сохраняются в localStorage
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
